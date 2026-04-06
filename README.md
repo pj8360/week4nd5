@@ -11,3 +11,5 @@ https://github.com/pj8360/week4nd5/blob/main/FibonacciSeriesCalculator.java
 https://github.com/pj8360/week4nd5/blob/main/HandshakeCalculator.java
 
 Level 3:
+https://github.com/pj8360/week4nd5/blob/main/TowerOfHanoi.java
+https://github.com/pj8360/week4nd5/blob/main/TriangularParkRoundsCalculator.java
